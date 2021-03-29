@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - HaishinKit (1.1.2):
+    - Logboard (~> 2.2.1)
+  - KVNProgress (2.3.5)
+  - Logboard (2.2.2)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - HaishinKit (~> 1.1.2)
+  - KVNProgress
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HaishinKit
+    - KVNProgress
+    - Logboard
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  HaishinKit: b47423f714c38253fce1502ab38ca6f1bdacbc08
+  KVNProgress: d7046cce142f1aeb740db39dc3cacfe910fac354
+  Logboard: 0ab6bbd984ed032b3f0b615cef06779a73445c80
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: d769e192b29455dcca87446620d7b75b076a8a42
+
+COCOAPODS: 1.8.4
